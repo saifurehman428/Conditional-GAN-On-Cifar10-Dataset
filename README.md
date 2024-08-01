@@ -21,6 +21,6 @@ After training 100 epochs, CGAN started to make reasonable images. For better re
 
 <img src="images/generated.png" alt="generated" width="300" height="300">
 
-The following video shows how CGAN improved after every epoch:
+The following video shows how CGAN improved after every epoch. I generated automobile images after every epoch to make this video.
 
 <img src="images/training_epochs.gif" alt="training" width="300" height="300">
