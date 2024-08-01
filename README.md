@@ -15,11 +15,11 @@ The CIFAR-10 dataset includes the following classes:
 - Ship
 - Truck
 
-![cifar10](images/cifar10.png)
+<img src="images/cifar10.png" alt="cifar10" width="300" height="300">
 
 After training 100 epochs, CGAN started to make reasonable images. For better results, train the model on 500 epochs.
 
-![generated](images/generated.png)
+<img src="images/generated.png" alt="generated" width="300" height="300">
 
 The following video shows how CGAN improved after every epoch:
 
