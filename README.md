@@ -19,4 +19,8 @@ The CIFAR-10 dataset includes the following classes:
 
 After training 100 epochs, CGAN started to make reasonable images. For better results, train the model on 500 epochs.
 
-![cifar10](images/generated.png)
+![generated](images/generated.png)
+
+The following video shows how CGAN improved after every epoch:
+
+![training](images/training.mp4)
