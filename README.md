@@ -15,4 +15,4 @@ The CIFAR-10 dataset includes the following classes:
 - Ship
 - Truck
 
-![cifar10](cifar.png)
+![cifar10](images/cifar.png)
