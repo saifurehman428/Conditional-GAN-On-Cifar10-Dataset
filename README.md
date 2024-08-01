@@ -16,3 +16,7 @@ The CIFAR-10 dataset includes the following classes:
 - Truck
 
 ![cifar10](images/cifar10.png)
+
+After training 100 epochs, CGAN started to make reasonable images. For better results, train the model on 500 epochs.
+
+![cifar10](images/generated.png)
