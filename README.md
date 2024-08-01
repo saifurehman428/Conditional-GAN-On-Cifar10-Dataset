@@ -23,4 +23,4 @@ After training 100 epochs, CGAN started to make reasonable images. For better re
 
 The following video shows how CGAN improved after every epoch:
 
-![training](images/training.mp4)
+![training](images/training.gif)
